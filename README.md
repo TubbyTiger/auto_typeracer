@@ -6,6 +6,7 @@ to get around it unless you are able to type over 76 wpm reading a given captcha
 
 The typeracer text has 2-3 span tags in which break off a part of the text. The first span tag will always carry 1 character and
 the following span tag will carry x >= 1 amount of characters. Also to note:  beginning  white spaces cannot be scraped. 
+![image](https://user-images.githubusercontent.com/14865439/29992553-23ff64de-8f6c-11e7-95ec-07eefdceecf1.png)
 
 Yes, I was bored enough to do this on a Friday night. Anyways this is more of a concept than a finished project. Feel free to 
 play around with this and create a better script.
